@@ -183,6 +183,7 @@ for index in 0..n
     - Procentuálně ```100D/R``` bitů nadbytečných
 
 ## ECC
+- ```y^2 = x^3 + ax + b```
 - asymetrické systémy
 - příklady z 8. 11/27
 - pozor na ZKOUŠKU
